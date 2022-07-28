@@ -1,0 +1,16 @@
+{
+  "name": "challenge_fullstack_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository":{
+    "type": "git",
+    "url": "git+https://github.com/Alan-Coronado/personal-finance-APP.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
